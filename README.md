@@ -1,5 +1,5 @@
 
-# CMSC 341 - Spring 2024 - Project 4: Vaccination Database
+# Vaccination Database
 
 ## Overview
 This project implements a vaccination database system (`VacDB`) using hash tables. It demonstrates efficient data storage, retrieval, collision handling, and rehashing. The database manages records of patients, supporting insertion, removal, searching, and updating operations. It also incorporates various collision handling mechanisms and testing functionalities.
